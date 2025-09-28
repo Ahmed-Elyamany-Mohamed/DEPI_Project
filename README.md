@@ -1,59 +1,41 @@
-# DepiProject
+# DEPI_Project
+- This Is A Repo For Depi Project 
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
+## **TEAM NAMES:**
+1- Ahmed Elyamany Shehta\
+2- Mohamed lotfy ali salem\
+3- Youssef Raafat Kamel Youssef\
+4- Mohamed shebl abdelqawy sallam
 
-## Development server
+## **Project Name:**
+- Fresh Cart
+## **Project Idea:**
+- E-Commerce Project That Shows The Products To The User, And The User Can Create An Account To Purchase 
 
-To start a local development server, run:
 
-```bash
-ng serve
-```
+## Work Plan
+1. Research & Analysis
+- Audience personas
+2. Visual Identity
+- Figma Design
+3. Main Designs
+- Web Design
+4. Complementary Products
+- Adding Products
+5. Review & Finalization
+- Testing
+6. Final Presentation
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Roles & Responsibilities
+1- Ahmed Elyamany Shehta (Team Leader) (Backend)\
+2- Mohamed lotfy ali salem (Authentication)\
+3- Youssef Raafat Kamel Youssef (Home Page, Products)\
+4- Mohamed shebl abdelqawy sallam (About Page, Connect Apis)
 
-## Code scaffolding
+## Instructor
+- Hesham Mohamed
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## Project Files
+- You can find the full project files here:
+- https://github.com/Ahmed-Elyamany-Mohamed/DEPI_Project/tree/master
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
